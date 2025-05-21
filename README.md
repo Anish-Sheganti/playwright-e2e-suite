@@ -68,9 +68,12 @@ This project runs Playwright tests automatically on every push and pull request 
 
 > ✅ CI status: ![Playwright Tests](https://github.com/kavyasri-singam/playwright-e2e-suite/actions/workflows/playwright.yml/badge.svg)
 
+ 
+## 📘 Test Report
 
-📘 Test Report (coming soon...)
-A downloadable or hosted version of the Playwright HTML report.
+✅ You can download the latest test report from the [GitHub Actions Artifacts](https://github.com/kavyasri-singam/playwright-e2e-suite/actions).  
+Just open the latest workflow run and scroll to the bottom to find and download the `playwright-report` zip file.
+
 
 🙌 Author
 KavyaSri — QA Automation Engineer
