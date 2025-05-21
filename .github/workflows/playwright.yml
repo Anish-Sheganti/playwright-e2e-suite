@@ -22,7 +22,7 @@ jobs:
         run: npx playwright test
 
       - name: Upload HTML report
-        uses: actions/upload-artifact@v3.1.3
+        uses: actions/upload-artifact@v3
         with:
           name: playwright-report
           path: playwright-report
