@@ -17,9 +17,12 @@ This project is a complete End-to-End (E2E) automation test suite built using [P
 
 ## 🧰 Tech Stack
 
-- ⚡ Playwright  
-- 🧪 TypeScript  
-- 🔁 GitHub Actions (CI/CD)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript)
+![Playwright](https://img.shields.io/npm/v/playwright.svg?logo=playwright)
+![Chromium](https://img.shields.io/badge/Chromium-137.0.7151.27-blue?logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-137.0-blue?logo=firefoxbrowser)
+![WebKit](https://img.shields.io/badge/WebKit-18.4-blue?logo=safari)
+
 - 🐧 Ubuntu (CI Runner)  
 - 💻 Cross-browser Testing (Headless + Headed)
 
